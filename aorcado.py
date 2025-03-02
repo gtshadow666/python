@@ -18,7 +18,7 @@ def ahorcado():
         print("\nPalabra: ", mostrar_palabra(palabra, letras_adivinadas))
         letra = input("Adivina una letra: ").lower()
 
-        if len(letra)!=0 or not letra.isalpha:
+        if len(letra)!=1 or not letra.isalpha:
             print("Insterte una letra valida y solo una")
             continue
         elif letra in letras_adivinadas:
