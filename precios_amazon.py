@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 precio_desado= 1.8
 # URL del producto en Amazon
-url = "https://www.amazon.es/Liderpapel-BIC-Evolution-HB-irrompible/dp/B00008D0TS?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2O043KZE3V4HQ&dib=eyJ2IjoiMSJ9.5UumaRJdeIua9qm1VXpd85NV2nGOD5y_a2BnzV90JREd6r8hPWGDnag0sagaApEt5D0mL9iiEO_q_YYZSunAFUeZyVrnTMQtvsXgXzfFyzWCooAhPgTGZmGmihTbor9JmgMLbRpwpAUYiMF8nEK_NuiwpkIPATc_U4rzGu6feuhYRtggCq8xQLXqwEdwEd8hAMt1lCnC7KM-NxTTIIxRbHYZYZJPgMLXqY8nvVMpKc0FhxJxNQ4a_Fr2Seid01s-O5uoWJfOovdNg9_PGHUPs4pxD_npr2pcOY2Tds61t-4.snzFD5lXcbowrLVtvD1I3kg7vpsX4GpSPPD1MqNRDSw&dib_tag=se&keywords=lapiz&qid=1740997506&sprefix=lapiz%2Caps%2C139&sr=8-5"
+url = ""
 
 # Cabecera para evitar bloqueos
 headers = {
