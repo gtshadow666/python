@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 precio_desado= 10
 # URL del producto en Amazon
-url = "https://www.mediamarkt.es/es/product/_raton-logitech-lift-vertical-ergonomico-inalambrico-4000-ppp-botones-personalizables-multidispositivo-windows-mac-usb-logi-bolt-negro-1532312.html"
+url = ""
 # Cabecera para evitar bloqueos
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
